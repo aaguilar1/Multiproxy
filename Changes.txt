@@ -1,0 +1,12 @@
+ * proxy.c - A Simple Sequential Web proxy
+ *
+ * Course Name: 14:332:456-Network Centric Programming
+ * Assignment 2
+ * Student Name: Alejandro Aguilar Esteban
+
+ 
+
+I had to make some minor changes to the csapp.h and the csapp.c files. When I first ran the the files a couple of errors occurred in the wrappers, some of the funtions where undefined. The reason for this was due to the fact that some weren't properly initialized or where lowercased instead of uppercase. I also had to convert some of the wrapper functions to ints in order for the function to return an integer value if an error occured. This had to be done with functions: Pthread_create; Pthread_cancel; Pthread_join; Pthread_detach; Pthread_once; Sem_init; P and V. After fixing those errors proxy.c would compile. 
+
+
+

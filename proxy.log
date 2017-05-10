@@ -1,0 +1,792 @@
+log:
+ Mon 13 Mar 2017 23:36:40 EDT: 127.0.0.1 http://start.ubuntu.com/16.04/Google/?sourceid=hp HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:41 EDT: 127.0.0.1 http://start.ubuntu.com/12.04/sprite.png HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:48 EDT: 127.0.0.1 http://platform.twitter.com/widgets.js?ver=56c2e5a9a86635ec8f1a1b185fdcaed2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:48 EDT: 127.0.0.1 http://maps.google.com/maps/api/js?sensor=false&key&ver=56c2e5a9a86635ec8f1a1b185fdcaed2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:48 EDT: 127.0.0.1 http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:48 EDT: 127.0.0.1 http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:48 EDT: 127.0.0.1 http://maps.google.com/maps/api/js?sensor=false&key&ver=56c2e5a9a86635ec8f1a1b185fdcaed2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:49 EDT: 127.0.0.1 http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2 HTTP/1.1
+
+log:
+ Mon 13 Mar 2017 23:36:53 EDT: 127.0.0.1 http://shpe2017.shpe.org/?wordfence_logHuman=1&hid=934328F700B9D9909ADD9995B9C43B74&r=0.6766159488091367 HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:34:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/~marsic/Teaching/SE/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:34:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/~marsic/Teaching/SE/fresco.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:34:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/~marsic/Icons/pdficon.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:34:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/~marsic/Icons/posta-e.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:02 EDT: 127.0.0.1 http://rushpe.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:02 EDT: 127.0.0.1 http://rushpe.com/CSS/home.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://www.w3schools.com/lib/w3.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/SHE%20Logo.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/star_on.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/home3.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/instagram-Logo-PNG-Transparent-Background-download.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/Screenshot%20(1).png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/social_facebook_box_blue.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/home1.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/images/calendar-128.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:03 EDT: 127.0.0.1 http://rushpe.com/favicon.ico HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:46 EDT: 127.0.0.1 http://www.ece.rutgers.edu/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/css/css_2d4c597012c7c37d55f4fa90ba45eb44.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/misc/jquery.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/tabs.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/flashobject.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/js/js_90a0687d71715545914dfbc94deef2fe.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.prettyPhoto.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/css/prettyPhoto.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.opacityrollover.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.galleriffic.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://info.template-help.com/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/menu/assets/skins/sam/menu.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/yahoo-dom-event/yahoo-dom-event.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/animation/animation-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/container/container_core-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:47 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/menu/menu-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://info.template-help.com/help/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/RutgersLogo.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/sun_transparentbright3.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/FindUsOnFacebook-121x20.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/theme473_logo.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/twitter3-125x20.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/zonouz7721-596x385-6.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/scientific-american-logo-100x100.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR14ECE7550-m-629x419.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0871-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR11ECE1746_small.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/nationalinstrumentnewsmall.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-slider2.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0771-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-slider4.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0839-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR11ECE1527_small.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-patient-RA8.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0901-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-1029-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/mfc1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/en.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/menu/menu-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ece-videos-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ugr1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/cp1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ps1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ab1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/menubutton-school-engineering-grey.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/an1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ge1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/fellowships-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/internships-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/efs1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/nsf_101x102_0.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/nj-commission-brain-injury-research-150x137.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/abc-news-logo-100x100.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/rutgers-today-100x99.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/theoutline-logo-100x29.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/css/css_2d4c597012c7c37d55f4fa90ba45eb44.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/js/js_90a0687d71715545914dfbc94deef2fe.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/theme473_favicon.ico HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://info.template-help.com/help/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:48 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/style.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/menu2.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/seb-right-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/play.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-left-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/zonouz7721-596x385-6.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR14ECE7550-m-629x419.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bg.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-right.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-bg.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/onepixelbkgrng.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/title-block-bg-sp2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:49 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/marker.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:53 EDT: 127.0.0.1 http://www.ece.rutgers.edu/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/yahoo-dom-event/yahoo-dom-event.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/animation/animation-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/menu/assets/skins/sam/menu.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/container/container_core-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://ece2.rutgers.edu/files/2.0.5//build/menu/menu-min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/css/css_2d4c597012c7c37d55f4fa90ba45eb44.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/js/js_90a0687d71715545914dfbc94deef2fe.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/misc/jquery.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/flashobject.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://info.template-help.com/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.opacityrollover.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/tabs.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.galleriffic.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/css/prettyPhoto.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/js/jquery.prettyPhoto.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://info.template-help.com/help/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR14ECE7550-m-629x419.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/janne-large-350x336.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/pictures/rutgers-day-2017-group-IMG_3522.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/modules/date/images/ical16x16.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/pictures/capstone2017-20170426_153849-400x408.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/css/css_2d4c597012c7c37d55f4fa90ba45eb44.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:54 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/js/js_90a0687d71715545914dfbc94deef2fe.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://info.template-help.com/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://info.template-help.com/help/files/ie6_warning/ie6_script.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/style.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-left-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/play.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/seb-right-act.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/menu2.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/sun_transparentbright3.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/RutgersLogo.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/FindUsOnFacebook-121x20.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/twitter3-125x20.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0871-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/theme473_logo.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/zonouz7721-596x385-6.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/nationalinstrumentnewsmall.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR11ECE1746_small.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-slider2.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0771-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-slider4.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0839-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-1029-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ge1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ps1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/efs1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/NR11ECE1527_small.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/small-patient-RA8.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/DeSalvo-0901-2-161x97.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/mfc1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/en.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ece-videos-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ugr1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/cp1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ab1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/menubutton-school-engineering-grey.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/an1.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/fellowships-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:55 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/internships-grey2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/nsf_101x102_0.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/nj-commission-brain-injury-research-150x137.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/scientific-american-logo-100x100.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/rutgers-today-100x99.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/abc-news-logo-100x100.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/theoutline-logo-100x29.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/images/janne-large-350x336.thumbnail.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/pictures/capstone2017-20170426_153849-400x408.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/menu-bg.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ugr2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:35:56 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ece-videos-black2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:27 EDT: 127.0.0.1 http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://nav.files.bbci.co.uk/searchbox/1.0.0-126/css/main.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3/css/main.min.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/style/orb.min.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/script/orb/api.min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/requirejs/lib.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/wwhp/1.114.0/modules/vendor/pre-built/vwo/mvt-snippet.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/wwhp/1.114.0/responsive/css/wwhp.min.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/script/orb.min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/wwhp/1.114.0/modules/vendor/bower/modernizr/modernizr.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/style/id-cta.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/style/id-cta-v5.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/modules/idcta/dist/idcta-1.min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/img/bbc-blocks-light.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/7.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/3.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/weather/0.5.284/images/icons/individual_56_icons/en_on_light_bg/0.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/15536/production/_96005378_e3b5dbc7-995f-4150-b997-38a4b9b11b0a.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/0436/production/_95987010_chibok2.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/2530/production/_96002590_ar-170519982.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/3464/production/_95921431_robyn-8675.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/ibroadcast/images/live/p0/52/k4/p052k42f.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/139B6/production/_96001308_mediaitem96001307.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/1588A/production/_95920288_595c5bf3-5ca9-4995-ab47-dc7bcbc12a15.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/CF11/production/_95890035_meridithkohut-thenewyorktimesredux3.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/D408/production/_95908245_icoast.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/144/cpsprodpb/15AD/production/_95894550_clayton-blast-two.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/script/vendor/edr.min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://nav.files.bbci.co.uk/nav-analytics/0.1.0-63/js/istats-1.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://dev.visualwebsiteoptimizer.com/j.php?a=236061&u=http%3A%2F%2Fwww.bbc.com%2F&r=0.05611415469330672 HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/svg/icon-sprite.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/img/orb-sprite.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://nav.files.bbci.co.uk/searchbox/1.0.0-126/img/gel-icon-search-dark.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:28 EDT: 127.0.0.1 http://static.bbci.co.uk/wwhp/1.114.0/fonts/wwhp-icons.woff HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://static.bbci.co.uk/wwhp/1.114.0/modules/compiled.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/modules/idcta/statusbar.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://dev.visualwebsiteoptimizer.com/v.gif?a=236061&d=bbc.com&u=3DB0A80A4827E51F8F735511DC1D49A2&h=cfae2ca87d6bd9d81ce08ad23742ce68&t=false&r=0.37362492201174824 HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/mfc2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/translations?callback&locale=en-GB HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3/js/NotificationsMain.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://search.files.bbci.co.uk/searchbox-app/1.0.16/searchboxDrawer.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:29 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/script/orb/async/_footerpromo.min.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://www.bbc.co.uk/navpromo/card/default/dark?callback=navpromo HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://emp.bbci.co.uk/emp/bump-3/bump-3.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/624/cpsprodpb/15536/production/_96005378_e3b5dbc7-995f-4150-b997-38a4b9b11b0a.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/304/cpsprodpb/139B6/production/_96001308_mediaitem96001307.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/304/cpsprodpb/2530/production/_96002590_ar-170519982.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/304/cpsprodpb/0436/production/_95987010_chibok2.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:30 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/304/ibroadcast/images/live/p0/52/k4/p052k42f.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:31 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:31 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ece-videos-black2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:31 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:32 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:32 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:32 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:33 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:33 EDT: 127.0.0.1 http://www.bbc.co.uk/idcta/config?callback&locale=en-GB&ptrt=http://www.bbc.com/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:34 EDT: 127.0.0.1 http://www.bbc.com/favicon.ico HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:34 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/barlesque/3.21.13/orb/4/img/bbc-blocks-dark.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:34 EDT: 127.0.0.1 http://search.files.bbci.co.uk/searchbox-app/1.0.16/style/enhanced.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:34 EDT: 127.0.0.1 http://edigitalsurvey.com/l.php?id=INS-642345567&v=7215&x=1366&y=768&d=24&c=null&ck=1&fl=25.0.0&p=%2F&xdm=edr&xdm_o=http%3A%2F%2Fwww.bbc.com&xdm_c=edr0 HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://ichef.bbci.co.uk/wwhp/800/ibroadcast/images/live/p0/52/j3/p052j3lz.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackConfig.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://search.files.bbci.co.uk/searchbox-app/1.0.16/style/enhanced.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://static.bbci.co.uk/echoclient/modules/echo-9.0.0.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://static.bbci.co.uk/bbcdotcom/1.52.0/script/av/emp/adverts.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://static.bbci.co.uk/bbcdotcom/1.52.0/script/av/emp/analytics.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.7.2.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://emp.bbc.com/emp/SMPj/2.11.5/iframe.html HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://www.ece.rutgers.edu/ HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3//svg/loader.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:35 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3//svg/close_icon.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:36 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3//svg/setting.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:36 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3//svg/arrow_left_black.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:36 EDT: 127.0.0.1 http://mybbc.files.bbci.co.uk/notification-ui/3.7.3/svg/bell_white.svg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:36 EDT: 127.0.0.1 http://static.bbci.co.uk/frameworks/requirejs/0.12.1/sharedmodules/require.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:37 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/css/css_2d4c597012c7c37d55f4fa90ba45eb44.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:37 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/default/files/js/js_90a0687d71715545914dfbc94deef2fe.js HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:37 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/sun_transparentbright3.png HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:37 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:37 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/style.css HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:38 EDT: 127.0.0.1 http://www.ece.rutgers.edu/sites/all/themes/theme473/images/bajwa-3-w.jpg HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:39 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/mfc2.gif HTTP/1.1
+
+log:
+ Wed 10 May 2017 18:36:40 EDT: 127.0.0.1 http://www.ece.rutgers.edu/files/ece-videos-black2.gif HTTP/1.1
+
